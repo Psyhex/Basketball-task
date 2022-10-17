@@ -1,0 +1,6 @@
+Player who scored the most points is 17 
+Player who played least amount of time is 23 
+Player with the most three points made is 1 
+There was 76 points scored by two-points 
+There was 30 points scored by free throws 
+Total points scored in game is 121 
